@@ -29,6 +29,7 @@ int main(void)
         {                  
         printf("#");  
         }     
+    //creates new row, then row loop iterates again    
     printf("\n");
     }
         
